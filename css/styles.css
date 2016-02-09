@@ -13,6 +13,13 @@
 	color: #181818;
 }
 
+.project-section{
+	background-color: #0099FF;
+	padding-bottom: 20px;
+	padding-left: 50px;
+	padding-right: 50px;
+}
+
 .skills-section{
 	background-color: white;
 	padding-left: 80px;
@@ -20,6 +27,14 @@
 	padding-bottom: 20px;
 }
 
+.skills-section-images{
+}
+
+.experience-section{
+	background-color: white;
+	padding-left: 50px;
+	padding-right: 50px;
+}
 .footer-section{
 	background-color: #0099FF;
 	padding-left: 50px;
